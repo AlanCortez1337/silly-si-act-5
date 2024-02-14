@@ -7,6 +7,13 @@ This is practice for CPSC 131 data structures which helps students practice impl
 3. Make sure you're on "Codespaces"
 4. Create a codespace on main
 
+## To run your code...
+Do the following commands once at a time without the ">"
+```
+> g++ main.cpp
+> ./a.out
+```
+
 ## Once you are satisfied with your work...
 do the following in your terminal
 ```
